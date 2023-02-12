@@ -76,12 +76,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'DevOps Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {href: 'https://www.wordparrot.com/', label: 'The Company', position: 'right'},
         ],
       },
       footer: {
