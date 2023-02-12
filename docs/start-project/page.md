@@ -1,8 +1,10 @@
 ---
-sidebar_position: 2
-title: Start a New Project
+sidebar_position: 1
+title: 1. Enter App Name
 ---
 
-Wordparrot connects the apps that you use together to make an automated process. These processes can save you many hours at your job or personal projects. They work best when deployed across a team or department, to reduce its workload in inefficient tasks.
+Wordparrot offers you many choices for automating apps you use every day. From spreadsheets to calendar notifications, emails to Google Forms, Wordparrot can simplify more of your work.
 
-Automated process tools let you change your productivity mindset from 'How do I use this tool to do work', to 'How do I make tools work together to do work for me?'
+The Wordparrot Hub offers a public repository of pre-built project solutions featuring your favorite apps.
+
+We're adding new features and app integrations all the time. Wordparrot gives you tools to find pre-built projects or make your own from scratch.

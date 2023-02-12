@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'DevOps Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -117,7 +117,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'DevOps Blog',
                 to: '/blog',
               },
               {

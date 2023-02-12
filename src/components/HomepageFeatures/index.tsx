@@ -26,7 +26,7 @@ export default function HomepageFeatures() {
                     </Link>
                   </Grid>
                 </Grid>
-              <Box sx={{ paddingTop: '45px', textAlign: 'center' }}>
+              <Box sx={{ paddingTop: '45px', paddingBottom: '45px', textAlign: 'center' }}>
                 <Link href="/docs/intro">
                   <Button variant="outlined">Go to Documentation</Button>
                 </Link>
