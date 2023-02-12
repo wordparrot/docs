@@ -5,6 +5,8 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 :root {
   --ifm-color-primary: #32659a;
   --ifm-color-primary-dark: #002e5d;
@@ -14,6 +16,7 @@
   --ifm-color-primary-lighter: #75a0da;
   --ifm-color-primary-lightest: #95c0fb;
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: 'Open Sans';
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -31,4 +34,12 @@
 
 header > h1 {
   font-size: 28px;
+}
+
+.menu__list-item-collapsible {
+  font-weight: 500;
+}
+
+.theme-doc-sidebar-item-link-level-2 {
+  font-size: 14px;
 }
