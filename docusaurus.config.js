@@ -1,5 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import JSONSchemaViewer from "@theme/JSONSchemaViewer"
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
@@ -31,6 +32,8 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: ["docusaurus-json-schema-plugin"],
 
   presets: [
     [
